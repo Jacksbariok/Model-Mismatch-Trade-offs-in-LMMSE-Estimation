@@ -1,7 +1,3 @@
-以下是基于您提供的论文和MATLAB代码撰写的README.md文件，适用于GitHub仓库：
-
----
-
 # Model Mismatch Trade-offs in LMMSE Estimation - MATLAB Implementation
 
 This repository contains a MATLAB implementation of the numerical experiments presented in the paper:
