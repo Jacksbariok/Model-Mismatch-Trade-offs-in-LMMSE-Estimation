@@ -88,6 +88,3 @@ If you use this code in your research, please cite the original paper:
 
 This project is provided for academic and research purposes. Please refer to the original paper for more details on the theory and methodology.
 
----
-
-Let me know if you'd like to add a `LICENSE` file or a `results/` folder with sample output plots.
